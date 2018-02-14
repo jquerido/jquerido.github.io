@@ -4,7 +4,7 @@
 		Date: 		 February 1, 2017
 		Description: Style sheet for my HTML website.
 		*/
-/*
+
 
 body {
     background-color: bisque;
@@ -95,10 +95,12 @@ strong {
 	background-color: #ffe4c4;
 }
 
+
 #header
 {
-	background: #ffe4c4;
+	background: #7f6f5d;
 	padding: 20px;
+	color: #ffffff;
 }
 
 #header h1
@@ -163,7 +165,7 @@ strong {
 	float: left;
 	width: 1200px;
 	background-color: #fff;
-	background-image: url(../images/styles/background.png);
+	background-image: url(images/background.png);
 	/* go up a directory, and then work down into images/styles directory */
 	background-repeat: repeat-y;
 	

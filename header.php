@@ -22,16 +22,15 @@ echo "<!--
 
 <div id="container">
 	<div id="header">
-		<img src="./images/logo.png" alt="Durham College" />
-		<?php echo "<h1>$banner</h1>"?>
+		<h1 style="color:#ffffff">MODE-4201</h1>
 	</div>
 	<div id="content-container">
 		<div id="navigation">
 			<h3>
-				Local Navigation Bar
+				&nbsp;Local Navigation Bar
 			</h3>
 			<ul>
-				<li><a href="./index.php">WEBD2201 Home Page</a></li>
+				<li><a href="./index.php">Home Page</a></li>
 				<li><a href="./lab1.php">Lab 2</a></li>
 			</ul>
 		</div>
